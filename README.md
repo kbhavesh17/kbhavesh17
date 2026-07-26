@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" width="100%" alt="GitHub Banner"/>
+  <img src="https://raw.githubusercontent.com/kbhavesh17/kbhavesh17/main/" width="100%" alt="GitHub Banner"/>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering;Frontend+Developer+%26+UX+Enthusiast;Process+Automation+Specialist;Problem+Solver+Through+Code" alt="Typing SVG" />
