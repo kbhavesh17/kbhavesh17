@@ -212,15 +212,6 @@ Learning & building
 
 ---
 
-## Let's Connect
-
-<div align="center">
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vladimir-poot-cohuo-1a215a25b)
-
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=vlad-devcore&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
 
