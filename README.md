@@ -4,23 +4,15 @@
 <img src="https://github.com/vlad-devcore/vlad-devcore/blob/main/assets/Banner.png" alt="Banner" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering;Frontend+Developer+%26+UX+Enthusiast;Process+Automation+Specialist;Problem+Solver+Through+Code" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vladimir-poot-cohuo-1a215a25b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://github.com/vlad-devcore)
-
 </div>
 
 ---
 
 ## About Me
+I'm a Full Stack Developer who enjoys building web applications that are fast, responsive, and easy to use. I like turning ideas into real products by working across both the frontend and backend. Whether it's creating clean user interfaces, designing APIs, or working with databases, I enjoy solving problems through code.
 
-**Software Engineering** about to graduate from **Universidad Politécnica de Quintana Roo**, specializing in creating intuitive digital experiences with a strong focus on UX design and process automation. I transform complex workflows into elegant, automated solutions that make a real impact.
+As I continue learning and improving my skills, I'm always exploring new technologies and best practices. My goal is to build applications that not only work well but also provide a smooth experience for users.
 
-### What Drives Me
-
-I'm passionate about solving real-world problems through code. Whether it's automating tedious processes or crafting beautiful user interfaces, I believe technology should make life easier and more efficient.
-
----
 
 ## Featured Projects
 
