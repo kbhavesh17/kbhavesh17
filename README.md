@@ -1,8 +1,9 @@
+<div>
 <p a<p align="center">
   <img src="https://raw.githubusercontent.com/kbhavesh17/kbhavesh17/main/banner.png" alt="Banner" width="100%">
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full Stack Developer;Frontend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;Frontend+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </div>
 
 ---
