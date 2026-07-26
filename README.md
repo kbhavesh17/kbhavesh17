@@ -1,7 +1,6 @@
-<div align="center">
-
-<!-- Reemplaza 'URL-DE-TU-BANNER' con el link de tu banner cuando lo subas -->
-<img src="https://chatgpt.com/s/m_6a65fe15773c8191b423801bb846faf0" alt="Banner" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" width="100%" alt="GitHub Banner"/>
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering;Frontend+Developer+%26+UX+Enthusiast;Process+Automation+Specialist;Problem+Solver+Through+Code" alt="Typing SVG" />
 </div>
